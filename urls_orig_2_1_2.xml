@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange
+                       Language 1.0//EN//XML" "hate-sysids">
+
+<xbel>
+
+<folder>
+  <bookmark href="http://www.python.org/topics/">
+  <title>Topic Guides &#x04a; python.org</title>
+  <desc>This is a collection of topic guides as a part of the Python
+  language website. Among the topics are XML, databases, Tkinter and
+  web programming.</desc>
+  </bookmark>
+
+  <bookmark href="http://www.python.org/doc/howto/">
+  <title>HOWTOs @ python.org</title>
+  <desc>A collection of HOWTO guides, covering Medusa, Curses, Qt,
+  regular expressions and XML, among other things.</desc>
+  </bookmark>
+  
+</folder>
+
+  
+</xbel>

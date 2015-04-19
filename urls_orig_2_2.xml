@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange
+                       Language 1.0//EN//XML" "hate-sysids">
+
+<xbel>
+<folder>
+<title>Development environments</title>
+
+  <bookmark href="http://www.python.org/emacs/">
+  <title>Emacs modes for Python</title>
+  <desc>This site contains some useful elisp packages such as a Python mode,
+  a debugger mode etc.</desc>
+  </bookmark>
+  
+  <bookmark href="http://starship.skyport.net/crew/zack/ptui/">
+  <title>PTUI</title>
+  <desc>A Tkinter-based IDE by Zachary Roadhouse.</desc>
+  </bookmark>
+  
+  <bookmark href="http://www.netins.net/showcase/Comput-IT/cooledit/index2.html">
+  <title>CoolEdit</title>
+  <desc>A text editor with Python scripting internally. XWindows-only.</desc>
+  </bookmark>
+  
+  <bookmark href="http://www.idmcomp.com/products/">
+  <title>UltraEdit</title>
+  <desc>A general text editor for Windows. Python syntax support can be
+  downloaded separately.</desc>
+  </bookmark>
+   
+</folder>
+
+<folder>
+<title>Miscellaneous</title>
+
+  <bookmark href="http://www.pythonjournal.com/">
+  <title>The Python Journal</title>
+  <desc>A web journal devoted to Python.</desc>
+  </bookmark>
+
+  <bookmark href="http://www.automatrix.com/~skip/python/fastpython.html">
+  <title>Python-Friendly ISPs</title>
+  <desc>A list of web host providers that also provide Python access for
+  CGI and suchlike.</desc>
+  </bookmark>
+
+</folder>
+  
+</xbel>

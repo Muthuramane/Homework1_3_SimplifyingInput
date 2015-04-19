@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange
+                       Language 1.0//EN//XML" "hate-sysids">
+
+<xbel>
+<title>Pyhoo!</title>
+<desc>
+This is a collection of useful pointers to Python-related material of
+various sorts. It grew out of my personal bookmarks collection, and is
+now maintained in XBEL, the XML Bookmark Exchange Language, partly as
+an experiment, partly as a demo for xmlproc and partly as a service
+for the public and myself.
+</desc>
+
+<folder>
+<title>Introductions</title>
+
+  <bookmark href="http://www.python.org/doc/Intros.html">
+  <title>Introduction pointers @ python.org</title>
+  <desc>A set of pointers to Python introductions.</desc>
+  </bookmark>
+
+  <bookmark href="http://www.python.org/doc/FAQ.html">
+  <title>The Python FAQ</title>
+  </bookmark>
+
+  <bookmark href="http://www.python.org/doc/Comparisons.html">
+  <title>Comparisons of Python and other languages</title>
+  </bookmark>
+    
+  <bookmark href="http://www.spindoczine.com/folder5/">
+  <title>The Quick Python Book</title>
+  <desc>An online draft of an upcoming Python tutorial book by Ken
+  McDonald.</desc>
+  </bookmark> 
+
+  <folder>
+  <title>Python in the press</title>
+  
+    <bookmark href="http://www.webreview.com/97/01/03/edge/">
+    <title>Python: It's not just for laughs</title>
+    <desc>An article in WebReview about Python.</desc>
+    </bookmark>
+
+  </folder>
+
+</folder>
+
+<folder>
+<title>References</title>
+
+  <bookmark href="http://starship.skyport.net/quick-ref1_5.html">
+  <title>Python 1.5 Quick Reference</title>
+  <desc>A very concise and useful reference of Python minutiae.</desc>
+  </bookmark>
+
+</folder>
+
+<folder>
+<title>Tips and tricks</title>
+
+  <bookmark href="http://www.automatrix.com/%7Eskip/python/fastpython.html">
+  <title>Python Performance Tips</title>
+  <desc>Some hints on which style and constructs to use to achieve the best
+  Python performance.</desc>
+  </bookmark>
+  
+</folder>
+
+
+</xbel>
